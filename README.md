@@ -11,5 +11,5 @@
 
 <hr>
 
-# 어학
+# Language
 ### OPIC IM1(eng)
